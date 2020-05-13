@@ -1,0 +1,2 @@
+# SemeionNNTF
+Simple Neural Network
